@@ -1,0 +1,32 @@
+14:20:10.356 [main] INFO  testcases.TC_002_MyLoginPage - ********* clicking on login ********** 
+14:20:10.449 [main] INFO  testcases.TC_002_MyLoginPage - ******* Finished TC_002_MyLoginPage *********** 
+16:35:12.718 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\eclipse 2023\opencart14\master.xml"
+16:35:18.451 [main] INFO  testcases.TC_001_AccountRegistration -  ***** Starting the TC_001_AccountRegistration ***** 
+16:35:19.399 [main] INFO  testcases.TC_001_AccountRegistration - ***** clicked on my account *****
+16:35:19.949 [main] INFO  testcases.TC_001_AccountRegistration -  ***** clicked on register button *******
+16:35:19.954 [main] INFO  testcases.TC_001_AccountRegistration - ***** providing customer details *******
+16:35:20.621 [main] INFO  testcases.TC_001_AccountRegistration - **** entering password *****
+16:35:21.001 [main] INFO  testcases.TC_001_AccountRegistration - **** clicked on privacy box *****
+16:35:21.654 [main] INFO  testcases.TC_001_AccountRegistration - **** clicked on continue button *****
+16:35:21.654 [main] INFO  testcases.TC_001_AccountRegistration - **** validating expected value *****
+16:35:21.742 [main] INFO  testcases.TC_001_AccountRegistration - ****** Finished TC_001_AccountRegistration ********* 
+16:35:25.112 [main] INFO  testcases.TC_002_MyLoginPage - *** Starting TC_002_MyLoginPage ******** 
+16:35:25.981 [main] INFO  testcases.TC_002_MyLoginPage - **** Clicked on account **********
+16:35:26.331 [main] INFO  testcases.TC_002_MyLoginPage - **** clicking on login button *******
+16:35:27.345 [main] INFO  testcases.TC_002_MyLoginPage - ********* clicking on login ********** 
+16:35:27.452 [main] INFO  testcases.TC_002_MyLoginPage - ******* Finished TC_002_MyLoginPage *********** 
+16:39:02.839 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\eclipse 2023\opencart14\master.xml"
+16:39:07.968 [main] INFO  testcases.TC_001_AccountRegistration -  ***** Starting the TC_001_AccountRegistration ***** 
+16:39:08.992 [main] INFO  testcases.TC_001_AccountRegistration - ***** clicked on my account *****
+16:39:09.599 [main] INFO  testcases.TC_001_AccountRegistration -  ***** clicked on register button *******
+16:39:09.605 [main] INFO  testcases.TC_001_AccountRegistration - ***** providing customer details *******
+16:39:10.301 [main] INFO  testcases.TC_001_AccountRegistration - **** entering password *****
+16:39:10.684 [main] INFO  testcases.TC_001_AccountRegistration - **** clicked on privacy box *****
+16:39:11.382 [main] INFO  testcases.TC_001_AccountRegistration - **** clicked on continue button *****
+16:39:11.382 [main] INFO  testcases.TC_001_AccountRegistration - **** validating expected value *****
+16:39:11.466 [main] INFO  testcases.TC_001_AccountRegistration - ****** Finished TC_001_AccountRegistration ********* 
+16:39:14.768 [main] INFO  testcases.TC_002_MyLoginPage - *** Starting TC_002_MyLoginPage ******** 
+16:39:15.639 [main] INFO  testcases.TC_002_MyLoginPage - **** Clicked on account **********
+16:39:16.017 [main] INFO  testcases.TC_002_MyLoginPage - **** clicking on login button *******
+16:39:16.955 [main] INFO  testcases.TC_002_MyLoginPage - ********* clicking on login ********** 
+16:39:17.043 [main] INFO  testcases.TC_002_MyLoginPage - ******* Finished TC_002_MyLoginPage *********** 
